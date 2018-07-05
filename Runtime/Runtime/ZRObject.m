@@ -9,18 +9,5 @@
 #import "ZRObject.h"
 #import <objc/runtime.h>
 @implementation ZRObject
-//void sayHello(id objClass,SEL method)
-//{
-//    NSLog(@"say Hello");
-//}
-//
-//
-//- (void)addMethod
-//{
-//    class_addMethod([ZRObject class], @selector(sayHello2), (IMP)sayHello, "v@:");
-//    // Test Method
-//    ZRObject *instance = [[ZRObject alloc] init];
-////    [instance sayHello2];
-////    [instance release];
-//}
+
 @end
